@@ -1,0 +1,14 @@
+{
+  "name": "flixel-extension",
+  "url": "https://github.com/Neon-Slice-Concentration/flixel-extension",
+  "license": "MIT",
+  "tags": ["flixel", "extension", "game"],
+  "description": "Extensions and utilities for HaxeFlixel",
+  "version": "1.0.0",
+  "classPath": "src",
+  "releasenote": "Initial release",
+  "contributors": ["Neon-Slice-Concentration"],
+  "dependencies": {
+    "flixel": ""
+  }
+}
